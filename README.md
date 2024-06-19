@@ -4,7 +4,7 @@
 [![mail](https://img.shields.io/badge/gmail-c14438?style=flat-square&message=gmail&logo=Gmail&logoColor=white)](mailto:yuri.zakharyan@gmail.com)
 [![Linkedln](https://img.shields.io/badge/linkedin-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yurii-zakharian/)
 [![Google Scholar](https://img.shields.io/badge/scholar-%23FFFFFF?style=flat-square&logo=google-scholar&logoColor=4285F4)](https://scholar.google.com/citations?user=silHCQHr_UoC)
-[![instagram]([https://img.shields.io/badge/instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/yzdxdydz/](https://img.shields.io/static/v1?style=flat-square&message=instagram&color=C13584&logo=instagram&logoColor=white&label=))](https://www.instagram.com/yzdxdydz/)
+[![instagram](https://img.shields.io/static/v1?style=flat-square&message=instagram&color=C13584&logo=instagram&logoColor=white&label=)](https://www.instagram.com/yzdxdydz/)
 
 <!--
 **yzdxdydz/yzdxdydz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
