@@ -6,8 +6,13 @@
 [![Google Scholar](https://img.shields.io/badge/scholar-%23FFFFFF?style=flat-square&logo=google-scholar&logoColor=4285F4)](https://scholar.google.com/citations?user=silHCQHr_UoC)
 [![instagram](https://img.shields.io/static/v1?style=flat-square&message=instagram&color=C13584&logo=instagram&logoColor=white&label=)](https://www.instagram.com/yzdxdydz/)
 
-[Curriculum vitae](cv.pdf)
-
+### About me
+- 📚 I'm Ph.D. in Mathematics
+- 💻 I'm working as a Senior Research Scientist at Huawei
+- 🔬 I'm exploring math models in machine learning
+- 📖 I'm currently learning Complex Geometry
+- 📄 My curriculum vitae: [cv](cv.pdf)
+  
 <!--
 **yzdxdydz/yzdxdydz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
