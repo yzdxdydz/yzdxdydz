@@ -24,5 +24,5 @@
 
 ---
 
-### ML Research papers
+### Recent ML Research
 - [PINNs error estimates for nonlinear equations in R-smooth Banach spaces](https://arxiv.org/pdf/2305.11915)
