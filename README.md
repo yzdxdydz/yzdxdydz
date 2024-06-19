@@ -6,6 +6,8 @@
 [![Google Scholar](https://img.shields.io/badge/scholar-%23FFFFFF?style=flat-square&logo=google-scholar&logoColor=4285F4)](https://scholar.google.com/citations?user=silHCQHr_UoC)
 [![instagram](https://img.shields.io/static/v1?style=flat-square&message=instagram&color=C13584&logo=instagram&logoColor=white&label=)](https://www.instagram.com/yzdxdydz/)
 
+[Curriculum vitae](cv.pdf)
+
 <!--
 **yzdxdydz/yzdxdydz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
