@@ -11,7 +11,7 @@
 ### About me
 - 📚 I'm Ph.D. in Mathematics
 - 💻 I'm working as a Senior Research Scientist at Huawei
-- 🔬 I'm exploring math models in machine learning
+- 🔬 I'm exploring math for machine learning and machine learning for math
 - 📖 I'm currently learning Complex Geometry
 - 📄 My curriculum vitae: [cv](cv.pdf)
 
