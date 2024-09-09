@@ -25,3 +25,4 @@
 
 ### Recent ML Research
 - [PINNs error estimates for nonlinear equations in R-smooth Banach spaces](https://arxiv.org/pdf/2305.11915)
+- [Method, device, apparatus and program product for compiling optimization](https://patents.google.com/patent/WO2024172680A1/)
