@@ -23,5 +23,7 @@
 ---
 
 ### Recent ML Research
-- [PINNs error estimates for nonlinear equations in R-smooth Banach spaces](https://arxiv.org/pdf/2305.11915)
-- [Method, device, apparatus and program product for compiling optimization](https://patents.google.com/patent/WO2024172680A1/)
+- (2025) Math-grounded end-to-end evaluation framework for generative AI systems (filed)
+- [(2024) Method, device, apparatus and program product for compiling optimization](https://patents.google.com/patent/WO2024172680A1/)
+- [(2023) PINNs error estimates for nonlinear equations in R-smooth Banach spaces](https://arxiv.org/pdf/2305.11915)
+
