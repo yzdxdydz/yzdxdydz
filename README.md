@@ -11,7 +11,7 @@
 - 📚 Ph.D. in Mathematics
 - 💻 I'm working as a Machine Learning Engineer at Workday
 - 🔬 I'm exploring math for machine learning and machine learning for math
-- 📄 My curriculum vitae: [cv](cv.pdf)
+- 📄 CV: [Web version](cv/) / [PDF](cv/cv.pdf)
 
 ---
 
